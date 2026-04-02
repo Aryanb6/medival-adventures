@@ -1,15 +1,15 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "Object2",
-  "spriteId": {
-    "name": "tree",
-    "path": "sprites/tree/tree.yy",
-  },
+  "name": "Object3",
+  "spriteId": null,
   "solid": false,
   "visible": true,
   "managed": true,
-  "spriteMaskId": null,
+  "spriteMaskId": {
+    "name": "log",
+    "path": "sprites/log/log.yy",
+  },
   "persistent": false,
   "parentObjectId": null,
   "physicsObject": false,
