@@ -8,6 +8,7 @@
     {"id":{"name":"Object2","path":"objects/Object2/Object2.yy",},"order":20,},
     {"id":{"name":"Object1","path":"objects/Object1/Object1.yy",},"order":19,},
     {"id":{"name":"obj_main","path":"objects/obj_main/obj_main.yy",},"order":0,},
+    {"id":{"name":"spr_background","path":"sprites/spr_background/spr_background.yy",},"order":24,},
     {"id":{"name":"spr_main","path":"sprites/spr_main/spr_main.yy",},"order":23,},
     {"id":{"name":"tree","path":"sprites/tree/tree.yy",},"order":16,},
     {"id":{"name":"log","path":"sprites/log/log.yy",},"order":17,},
