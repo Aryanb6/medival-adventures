@@ -1,7 +1,7 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "Object2",
+  "name": "tree2",
   "spriteId": {
     "name": "tree",
     "path": "sprites/tree/tree.yy",
@@ -28,7 +28,7 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "medival-adventures",
-    "path": "medival-adventures.yyp",
+    "name": "Objects",
+    "path": "folders/Objects.yy",
   },
 }

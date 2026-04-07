@@ -1,7 +1,7 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "Object3",
+  "name": "log3",
   "spriteId": null,
   "solid": false,
   "visible": true,
@@ -28,7 +28,7 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "medival-adventures",
-    "path": "medival-adventures.yyp",
+    "name": "Objects",
+    "path": "folders/Objects.yy",
   },
 }

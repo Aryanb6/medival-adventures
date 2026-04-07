@@ -68,7 +68,7 @@
   ],
   "nineSlice": null,
   "parent": {
-    "name": "medival-adventures",
-    "path": "medival-adventures.yyp",
+    "name": "Sprites",
+    "path": "folders/Sprites.yy",
   },
 }
