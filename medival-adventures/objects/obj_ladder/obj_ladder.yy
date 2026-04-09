@@ -1,8 +1,11 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "Object5",
-  "spriteId": null,
+  "name": "obj_ladder",
+  "spriteId": {
+    "name": "spr_ladder",
+    "path": "sprites/spr_ladder/spr_ladder.yy",
+  },
   "solid": false,
   "visible": true,
   "managed": true,
@@ -21,7 +24,9 @@
   "physicsStartAwake": true,
   "physicsKinematic": false,
   "physicsShapePoints": [],
-  "eventList": [],
+  "eventList": [
+    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","isDnD":true,"eventNum":0,"eventType":4,"collisionObjectId":{"name":"obj_main","path":"objects/obj_main/obj_main.yy",},},
+  ],
   "properties": [],
   "overriddenProperties": [],
   "parent": {
